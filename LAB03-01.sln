@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB03-01", "LAB03-01\LAB03-01.csproj", "{81961A52-CD05-4008-865B-7AFC7AF7B58C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB03-02", "LAB03-02\LAB03-02.csproj", "{71A571E9-04AF-4A88-806E-C3E50AE95668}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB03-03", "LAB03-03\LAB03-03.csproj", "{EBB40B52-5D47-4A7F-85BE-76C47827C27A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81961A52-CD05-4008-865B-7AFC7AF7B58C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81961A52-CD05-4008-865B-7AFC7AF7B58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81961A52-CD05-4008-865B-7AFC7AF7B58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81961A52-CD05-4008-865B-7AFC7AF7B58C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71A571E9-04AF-4A88-806E-C3E50AE95668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71A571E9-04AF-4A88-806E-C3E50AE95668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71A571E9-04AF-4A88-806E-C3E50AE95668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71A571E9-04AF-4A88-806E-C3E50AE95668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBB40B52-5D47-4A7F-85BE-76C47827C27A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB40B52-5D47-4A7F-85BE-76C47827C27A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB40B52-5D47-4A7F-85BE-76C47827C27A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB40B52-5D47-4A7F-85BE-76C47827C27A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0011810-A0FD-4ED2-90DB-5CDED0314A10}
+	EndGlobalSection
+EndGlobal

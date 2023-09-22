@@ -1,0 +1,10 @@
+D:\21DTHD3\KTLT\LAB03-01\LAB03-02\bin\Debug\LAB03-02.exe.config
+D:\21DTHD3\KTLT\LAB03-01\LAB03-02\bin\Debug\LAB03-02.exe
+D:\21DTHD3\KTLT\LAB03-01\LAB03-02\bin\Debug\LAB03-02.pdb
+D:\21DTHD3\KTLT\LAB03-01\LAB03-02\obj\Debug\LAB03-02.csproj.AssemblyReference.cache
+D:\21DTHD3\KTLT\LAB03-01\LAB03-02\obj\Debug\LAB03_02.Form1.resources
+D:\21DTHD3\KTLT\LAB03-01\LAB03-02\obj\Debug\LAB03_02.Properties.Resources.resources
+D:\21DTHD3\KTLT\LAB03-01\LAB03-02\obj\Debug\LAB03-02.csproj.GenerateResource.cache
+D:\21DTHD3\KTLT\LAB03-01\LAB03-02\obj\Debug\LAB03-02.csproj.CoreCompileInputs.cache
+D:\21DTHD3\KTLT\LAB03-01\LAB03-02\obj\Debug\LAB03-02.exe
+D:\21DTHD3\KTLT\LAB03-01\LAB03-02\obj\Debug\LAB03-02.pdb
